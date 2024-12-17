@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### for view page of task-ranking use http://localhost:3000/task-ranking
+### for view page of weather data  use http://localhost:3000/weather-data
+ 
+due to deprection of react-beautiful-dnd i have used another similar package 
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
